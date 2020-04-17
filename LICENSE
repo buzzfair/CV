@@ -119,3 +119,22 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
+{
+    "name": "Creative Commons Attribution-NonCommercial (CC-BY-NC)",
+    "priority": 1,
+    "available": true,
+    "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "description": "A creative commons license that bans commercial use.",
+    "categories": [
+        "public",
+        "data",
+        "by",
+        "nc"
+    ],
+    "labels": [
+        "public",
+        "cc",
+        "nc"
+    ],
+    "key": "cc-by-nc"
+}
